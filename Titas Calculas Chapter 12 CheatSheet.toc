@@ -1,0 +1,3 @@
+\selectlanguage *[numerals=Bengali, changecounternumbering=true]{bengali}
+\contentsline {section}{\numberline {১}পিথাগোরাস(Pythagoras)}{১}{section.1}%
+\contentsline {subsection}{\numberline {১.১}বর্ণনা}{১}{subsection.1.1}%
